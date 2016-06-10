@@ -200,3 +200,11 @@ footer p {
         margin: 20px;
     }
 }
+
+.language-text {
+    display: block;
+    overflow-x: auto;
+    padding: 0.5em;
+    background: #333;
+    color: white;
+}
