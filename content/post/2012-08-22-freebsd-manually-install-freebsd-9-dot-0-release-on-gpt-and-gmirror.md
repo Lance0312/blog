@@ -100,13 +100,13 @@ $ passwd lance
 ```
 
 #### /etc/rc.conf
-[gist:id=3428614,file=rc.conf]
+{{< gist Lance0312 3428614 "rc.conf" >}}
 
 #### /etc/fstab
-[gist:id=3428614,file=fstab]
+{{< gist Lance0312 3428614 "fstab" >}}
 
 #### /boot/loader.conf
-[gist:id=3428614,file=loader.conf]
+{{< gist Lance0312 3428614 "loader.conf" >}}
 
 
 ## 大功告成
